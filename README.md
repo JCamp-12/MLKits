@@ -2,6 +2,8 @@
 
 Starter projects for learning about Machine Learning.
 
+Lets Rock
+
 ## Downloading
 
 There are two ways to download this repository - either as a zip or by using git.
